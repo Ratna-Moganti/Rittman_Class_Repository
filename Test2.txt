@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This test file updated again
+=======
+This is my third test file updated again
+>>>>>>> 311a817d786717bfadcb87c09356293f63f1d961
